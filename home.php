@@ -128,7 +128,7 @@ body {
       <h2>About Me</h2>
       <h5>Photo of me:</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      <p><a class="twitter-timeline" href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">Tweets by realDonaldTrump</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
       <h3>More Text</h3>
       <p>Lorem ipsum dolor sit ame.</p>
       <div class="fakeimg" style="height:60px;">Image</div><br>
